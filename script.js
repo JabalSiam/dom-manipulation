@@ -23,6 +23,9 @@ function changeBGcolor(event){
         body.style.backgroundColor='green';
     }
 }
+function redirectToGoogle(event){
+    window,location.assign("http://www.google.com");
+}
 
 
 /* Task 4 using jQuery */
